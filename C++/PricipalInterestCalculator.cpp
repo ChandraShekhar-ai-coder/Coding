@@ -24,7 +24,7 @@ int main() {
 
     float total_simple_balance = p + simple_interest;
     cout<<"\n--- Simple Balance Calculation ---"<<endl;
-    cout <<"Total Simple balance : "<<total_simple_balance <<endl;
+    cout <<"Total Simple Balance : "<<total_simple_balance <<endl;
     float r = i/100;
     float total_compound_balance = p * std::pow((1 + r), t);
     float compound_interest = total_compound_balance - p;
