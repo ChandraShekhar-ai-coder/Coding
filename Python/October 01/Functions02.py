@@ -90,7 +90,7 @@ print(no(5))
 def no(c):
     x=0
     for i in c:
-        x +=i
+        x += i
     return x
 y = [100,22,33,43,332,32212,22]
 print(no(y))
