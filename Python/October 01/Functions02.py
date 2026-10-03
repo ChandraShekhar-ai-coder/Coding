@@ -92,4 +92,4 @@ def no(c):
     for i in c:
         x = x+i
     return x
-y = no[1]
+y = no[100,22,33,43,332,32212,]
