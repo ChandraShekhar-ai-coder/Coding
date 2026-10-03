@@ -102,4 +102,4 @@ def no(d):
     for i in d:
         i % x != 0
         x = i
-    retutn      
+    re     
