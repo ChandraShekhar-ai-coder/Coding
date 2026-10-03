@@ -54,7 +54,8 @@ print(y)
 """
 #7. Check Positive, Negative, or Zero
 def no(a):
-    if a>0: print(f"positive,{a}")
+    if a>0:
+        print(f"positive,{a}")
         return a
        
     if a<0:
