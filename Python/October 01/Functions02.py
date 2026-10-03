@@ -42,5 +42,5 @@ print(rem)
 """
 #5.GreetingFunction
 def greeting(name):
-    return "Hello"name
+    return "Hello",name
 x = Greeting(Kai)
