@@ -91,3 +91,4 @@ def no(c):
     x=0
     for i in c:
         x = x+i
+        
