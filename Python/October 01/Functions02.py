@@ -61,7 +61,8 @@ def no(a):
         return a
         print(f"Negative,{a}")
     else:
-        return a print
+        return a 
+    print
 
 
 
