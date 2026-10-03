@@ -48,4 +48,4 @@ print(f"Hello,{x}")
 
 #6. Find the Cube
 def cube(a):
-    
+    reti
