@@ -92,4 +92,3 @@ def no(c):
     for i in c:
         x = x+i
     return x
-c = {}
