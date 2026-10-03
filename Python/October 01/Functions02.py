@@ -44,4 +44,4 @@ print(rem)
 def greeting(name):
     return name
 x = greeting("Kai")
-print("Hello,{x})
+print("Hello,{x}")
