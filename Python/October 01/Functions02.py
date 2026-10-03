@@ -64,6 +64,9 @@ def no(a):
         return a 
         print("Zero")
 res=no(6)
+res=no(6)
+res=no(6)
+res=no(6)
 
 
 
