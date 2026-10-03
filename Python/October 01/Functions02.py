@@ -101,4 +101,4 @@ def no(d):
     x = 2
     for i in d:
         i % x != 0
-        x
+        x =
