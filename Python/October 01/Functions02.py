@@ -74,6 +74,6 @@ res=no(0)
 def no(a,b,c):
     return (a+b+c)/3
 x = no(10,2,45)
-y = no()
+y = no(345,3443,34,)
 
 
