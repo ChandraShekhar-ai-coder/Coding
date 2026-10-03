@@ -85,7 +85,7 @@ def no(a):
          x = x*i
     return x
 print(no(5))
-"""
+
 #10. Sum of List Elements
 def no(c):
     x=0
@@ -94,4 +94,4 @@ def no(c):
     return x
 y = [100,22,33,43,332,32212,22]
 print(no(y))
-
+"""
