@@ -43,4 +43,4 @@ print(rem)
 #5.GreetingFunction
 def greeting(name):
     return name
-x = Greeting 
+x = Greeting
