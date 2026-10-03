@@ -77,7 +77,7 @@ x = no(10,2,45)
 y = no(345,3443,34)
 print(x)
 print(y)
-"""
+
 #9. Calculate Factorial
 def no(a):
     x = 1
@@ -85,4 +85,4 @@ def no(a):
          x = x*i
     return x
 print(no(5))
-
+"""
