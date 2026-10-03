@@ -80,5 +80,5 @@ print(y)
 """
 #9. Calculate Factorial
 def no(a):
-    
+    for i in rsnge
 
