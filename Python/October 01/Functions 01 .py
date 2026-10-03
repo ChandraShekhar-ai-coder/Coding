@@ -70,5 +70,6 @@ def factorial(a):
         return x
 print(factorial(5))
 
+print(factorial())
 
 
