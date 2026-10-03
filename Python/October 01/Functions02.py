@@ -63,7 +63,7 @@ def no(a):
     else:
         return a 
         print("Zero")
-e
+res
 
 
 
