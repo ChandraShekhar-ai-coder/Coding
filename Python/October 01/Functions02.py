@@ -98,4 +98,5 @@ print(no(y))
 """
 #.1 Find All Prime Numbers in a List
 def no(d):
-    while x
+    while x:
+        
