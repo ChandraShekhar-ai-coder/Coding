@@ -65,7 +65,7 @@ def no(a):
         print("Zero")
 res=no(6)
 res=no(-2)
-res=no(6)
+res=no(0)
 res=no(9)
 
 
