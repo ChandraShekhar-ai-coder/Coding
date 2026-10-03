@@ -79,5 +79,6 @@ print(x)
 print(y)
 """
 #9. Calculate Factorial
-def no(a)
+def no(a):
+    
 
