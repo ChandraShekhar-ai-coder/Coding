@@ -87,3 +87,4 @@ def no(a):
 print(no(5))
 """
 #10. Sum of List Elements
+def
