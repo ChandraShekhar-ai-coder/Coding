@@ -88,4 +88,4 @@ print(no(5))
 """
 #10. Sum of List Elements
 def no(c):
-    for i in c[0,]
+    for i in c[0]
