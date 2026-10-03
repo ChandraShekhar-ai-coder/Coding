@@ -97,4 +97,4 @@ print(no(y))
 
 """
 #Write a Python function to solve the problem.
-def 
+def no
