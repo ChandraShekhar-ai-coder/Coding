@@ -63,6 +63,7 @@
 # print(count)
 
 
-def factorial(a)
+def factorial(a):
+    
 
 
