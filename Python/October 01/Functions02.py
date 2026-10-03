@@ -56,7 +56,7 @@ print(y)
 def no(a):
     if a>0:
         print(f"positive,{a}")
-        return a   # always use return at last after everything it will exit the loop
+        return a   # always use return at last after everything it will exit the loop.
        
     if a<0:
         print(f"Negative,{a}")
