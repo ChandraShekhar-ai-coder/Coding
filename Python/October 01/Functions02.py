@@ -84,5 +84,5 @@ def no(a):
     for i in range(1,a+1):
         return i*i
         i += 1
- 
+print i 
 
