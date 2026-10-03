@@ -57,7 +57,7 @@ def no(a):
     if a>0:
         return a
         print(f"positive,{a}")
-    if a>
+    if a<
 
 
 
