@@ -92,5 +92,5 @@ def no(c):
     for i in c:
         x = x+i
     return x
-y = no[100,22,33,43,332,32212,22]
-print(y)
+y = [100,22,33,43,332,32212,22]
+print(no(y))
