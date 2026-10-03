@@ -39,13 +39,13 @@ print(res)
 print(ret)
 print(ren)
 print(rem)
-"""
+
 #5.GreetingFunction
 def greeting(name):
     return name
 x = greeting(" Kai")
 print(f"Hello,{x}")
-
+"""
 #6. Find the Cube
 def cube(a):
     return a**3
