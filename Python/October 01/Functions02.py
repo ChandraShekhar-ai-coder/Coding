@@ -71,6 +71,6 @@ res=no(-2)
 res=no(0)
 
 #8. Calculate the Average of Three Numbers
-def no.
+def no.()
 
 
