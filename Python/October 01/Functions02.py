@@ -96,5 +96,5 @@ y = [100,22,33,43,332,32212,22]
 print(no(y))
 
 """
-#. Find All Prime Numbers in a List
+#.1 Find All Prime Numbers in a List
 def no()
