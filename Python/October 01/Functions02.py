@@ -73,6 +73,6 @@ res=no(0)
 #8. Calculate the Average of Three Numbers
 def no(a,b,c):
     return (a+b+c)/3
-x = 
+x = n
 
 
