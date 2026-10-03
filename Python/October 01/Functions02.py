@@ -63,9 +63,9 @@ def no(a):
         return a
         
     else:
-        
-        return a 
         print("Zero")
+        return a 
+        
 res=no(6)
 res=no(-2)
 res=no(0)
