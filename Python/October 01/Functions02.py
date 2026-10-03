@@ -96,4 +96,4 @@ y = [100,22,33,43,332,32212,22]
 print(no(y))
 
 """
-#
+#Write a Python function to solve the problem
