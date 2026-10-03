@@ -50,8 +50,7 @@ print(f"Hello,{x}")
 def cube(a):
     return a**3
 y = cube(9)
-print(y)
-"""
+
 #7. Check Positive, Negative, or Zero
 def no(a):
     if a>0:
@@ -69,7 +68,8 @@ def no(a):
 res=no(6)
 res=no(-2)
 res=no(0)
-
+print(y)
+"""
 #8. Calculate the Average of Three Numbers
 def no(a,b,c):
     return (a+b+c)/3
