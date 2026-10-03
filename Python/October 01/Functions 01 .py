@@ -65,6 +65,6 @@
 
 def factorial(a):
     x = 1
-    for i in range
+    for i in range()
 
 
