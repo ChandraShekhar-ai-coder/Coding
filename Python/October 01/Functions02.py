@@ -52,5 +52,4 @@ def cube(a):
 y = cube(9)
 print(y)
 
-#64
-7. Check Positive, Negative, or Zero
+#7. Check Positive, Negative, or Zero
