@@ -87,5 +87,5 @@ def no(a):
 print(no(5))
 """
 #10. Sum of List Elements
-def no(l):
+def no(c):
     for in 
