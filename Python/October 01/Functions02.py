@@ -53,7 +53,7 @@ y = cube(9)
 print(y)
 
 #7. Check Positive, Negative, or Zero
-def no(10):
+def no():
     if a>0:
         return a
         print(f"positive,{a}")
