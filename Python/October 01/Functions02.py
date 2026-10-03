@@ -66,7 +66,7 @@ def no(a):
 res=no(6)
 res=no(6)
 res=no(6)
-res=no()
+res=no(9)
 
 
 
