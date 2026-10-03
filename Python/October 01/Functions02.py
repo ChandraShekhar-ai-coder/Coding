@@ -80,6 +80,7 @@ print(y)
 """
 #9. Calculate Factorial
 def no(a):
+    
     for i in range(1,a+1):
         return 
 
