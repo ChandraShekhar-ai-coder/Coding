@@ -103,4 +103,4 @@ def no(d):
         i % x != 0
         x = i
     return x 
-y =      
+y = 
