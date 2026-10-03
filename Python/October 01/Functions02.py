@@ -43,5 +43,5 @@ print(rem)
 #5.GreetingFunction
 def greeting(name):
     return "Hello",name
-x = reeting(Kai)
+x = greeting(Kai)
 print(x)
