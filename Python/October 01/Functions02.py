@@ -61,9 +61,9 @@ def no(a):
     if a<0:
 
         return a
-        print(f"Negative,{a}")
+            
     else:
-        
+
         return a 
         print("Zero")
 res=no(6)
