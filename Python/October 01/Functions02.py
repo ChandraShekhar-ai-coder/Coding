@@ -100,4 +100,4 @@ print(no(y))
 def no(d):
     x = 2
     for i in d:
-        i% x ==
+        i % x ==
