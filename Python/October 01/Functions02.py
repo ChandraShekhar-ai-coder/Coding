@@ -64,7 +64,7 @@ def no(a):
         return a 
         print("Zero")
 
-        
+
 
 
 
