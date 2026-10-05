@@ -11,7 +11,7 @@ while health <100:
     
 
 
-print
+print()
 health = 3 
 
 while health < 10: 
