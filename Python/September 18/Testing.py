@@ -1,4 +1,4 @@
-"""health = 3
+health = 3
 while health <100:
     health += 1
     if health == 60:
@@ -28,4 +28,4 @@ while health < 10:
 x = input("Enter Password : ")
 y = "secret@123"
 print(x==y)
-print(f'the password is top secret {y} do not tell anyone')     
+print(f'the password is top secret {y} do not tell anyone')     """
