@@ -12,7 +12,7 @@ while health <100:
 
 
 print()
-
+pr
 health = 3 
 
 while health < 10: 
