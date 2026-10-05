@@ -21,7 +21,7 @@ while health < 10:
     if health == 8: 
         break 
     print(f"The person is healthy; Health : {health}") 
-   health += 1
+    health += 1
 """
 
 
