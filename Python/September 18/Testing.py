@@ -22,7 +22,7 @@ while health < 10:
         break 
     print(f"The person is healthy; Health : {health}") 
    health += 1
- """
+"""
 
 
 x = input("Enter Password : ")
