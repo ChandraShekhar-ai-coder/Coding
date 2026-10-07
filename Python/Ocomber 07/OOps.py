@@ -6,7 +6,7 @@ class Customer:
 
 
     def __str__():
-        print(f"Name : {self.name} /nAmount : {self.amount} /n Payment Mode : {self.payment_type}")
+        print(f"Name : {self.name} /nAmount : {self.amount} /n Payment Mode : {self.payment_type}?n")
 
 class payment_tracker:
     def __init__(self):
@@ -17,4 +17,3 @@ class payment_tracker:
         total_cash = 0
         total_card = 0
         total_upi = 0
-                
