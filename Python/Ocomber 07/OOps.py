@@ -9,5 +9,5 @@ class Customer:
     def Show_Payment(self):
         print(f"Name : {self.name} \nAmount : {self.amount} \n Payment Mode : {self.payment_type}\n\n")
 
-    
+    customer1.Show_Payment()
 
