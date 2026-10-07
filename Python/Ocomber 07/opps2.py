@@ -15,7 +15,7 @@ class  Student_Class:
         print(f"Name : {self.name}\nGrade : {self.grade}\nPercentage : {self.percentage} \nTeam : {self.team}\n ")
 
 Students =[ # full data in list format 
-    Student_Class("Shekhar","A+","99.8%","Blackwood"),
+     Student_Class("Shekhar","A+","99.8%","Blackwood"),
      Student_Class("Aksay","A+","99.8%","Blackwood"),
      Student_Class("Rudra","A+","99.8%","New York"),
      Student_Class("Rishi","A+","99.8%","New York"),
