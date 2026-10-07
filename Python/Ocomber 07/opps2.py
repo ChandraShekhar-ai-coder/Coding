@@ -10,6 +10,7 @@ class  Student_Class:
         self.grade = Grade
         self.percentage = Percentage
         self.team = Team
+        
 
 
         
