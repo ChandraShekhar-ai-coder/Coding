@@ -6,4 +6,4 @@ class Customer:
 
 
     def __str__():
-        print(f"Name : {se}")
+        print(f"Name : {self}")
