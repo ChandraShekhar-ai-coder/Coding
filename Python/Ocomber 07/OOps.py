@@ -1,2 +1,2 @@
 class Customer:
-    def __
+    def __init
