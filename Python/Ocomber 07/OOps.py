@@ -12,6 +12,6 @@ class payment_tracker:
     def __init__(self):
         self.customers=[]
     def add__customers(self):
-        self.customer
+        self.customers.appe
 
         
