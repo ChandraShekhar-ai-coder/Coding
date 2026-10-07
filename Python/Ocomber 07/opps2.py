@@ -9,7 +9,7 @@ class  Student_Class:
         self.name = Name
         self.grade = Grade
         self.percentage = Percentage
-        
+        ekf
 
 
         
