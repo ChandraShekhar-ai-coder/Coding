@@ -4,6 +4,7 @@ class Customer:
         self.amount = amount
         self.payment_type = payment_type.upper()  #to make this is in always uppercase
 
+customer1 = Customer("Salman",50000,"UPI")
 
     def __str__():
         print(f"Name : {self.name} \nAmount : {self.amount} \n Payment Mode : {self.payment_type}\n\n")
@@ -17,5 +18,3 @@ class Customer:
 #         total_cash = 0
 #         total_card = 0
 #         total_upi = 0
-
-customer1 = Customer("Salman",50000,"UPI")
