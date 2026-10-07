@@ -29,7 +29,7 @@ Students =[
 # Student2.Show_Details()
 
 
-for i in customers:
+for i in Students:
     customer.Show_Payment()
 
 
