@@ -1,2 +1,2 @@
 class Customer:
-    def __init__(self,name,aount)
+    def __init__(self,name,amount)
