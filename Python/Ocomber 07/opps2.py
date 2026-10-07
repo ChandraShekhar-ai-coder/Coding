@@ -15,7 +15,7 @@ class  Student_Class:
 Student1 = Student_Class("Shekhar","A+",99.8%,"Blackwood")
 
 
-Student1.Show_Details
+Student1.Show_Details()
 
 
         
