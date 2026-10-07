@@ -8,7 +8,7 @@ class  Student_Class:
     def __init__(self,Name,Grade,Percentage,Team)
         self.name = Name
         self.grade = Grade
-        self.percentage = P
+        self.percentage = Percentage
 
 
         
