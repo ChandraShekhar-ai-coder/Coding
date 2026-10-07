@@ -19,7 +19,7 @@ Student2 = Student_Class("Aksay","A+","99.8%","Blackwood")
 
 
 Student1.Show_Details()
-Student1.Show_Details()
+Student2.Show_Details()
 
 
         
