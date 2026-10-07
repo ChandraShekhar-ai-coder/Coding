@@ -30,7 +30,7 @@ Students =[
 
 
 for i in Students:
-    .Show_Payment()
+    i.Show_Payment()
 
 
 
