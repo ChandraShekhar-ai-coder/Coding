@@ -29,7 +29,7 @@ Student8 = Student_Class("Deva","B+","55.8%","London")
 # Student2.Show_Details()
 
 
-        for customer in customers:
+for customer in customers:
     customer.Show_Payment()
 
 
