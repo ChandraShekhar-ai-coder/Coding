@@ -18,3 +18,4 @@ class payment_tracker:
         total_card = 0
         total_upi = 0
 
+Customer1
