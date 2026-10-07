@@ -23,7 +23,7 @@ Students =[ # full data in list format
     Student = Student_Class("Ram","A+","99.8%","Los Angles"),
     Student = Student_Class("Priyanka","A+","99.8%","Los Angles"),
     Student = Student_Class("Deva","B+","55.8%","London"),
-    ]
+     ]
 
 
 # Student1.Show_Details()
