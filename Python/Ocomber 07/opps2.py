@@ -10,7 +10,7 @@ class  Student_Class:
         self.grade = Grade
         self.percentage = Percentage
         self.team = Team
-    def Show_Details
+    def Show_Details()
 Student1 = Student_Class("Shekhar","A+",99.8%,"Blackwood")
 
 
