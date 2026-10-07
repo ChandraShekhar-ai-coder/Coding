@@ -1,2 +1,2 @@
-class payment:
+class Customer:
     Customer1= Customer_1
