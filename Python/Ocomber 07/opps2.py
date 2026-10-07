@@ -21,7 +21,7 @@ Student1 = Student_Class("Rudra","A+","99.8%","Blackwood")
 Student2 = Student_Class("Rishi","A+","99.8%","Blackwood")
 Student1 = Student_Class("Golu","A+","99.8%","Blackwood")
 Student2 = Student_Class("Ram","A+","99.8%","Blackwood")
-Student1 = Student_Class("","A+","99.8%","Blackwood")
+Student1 = Student_Class("Priyanka","A+","99.8%","Blackwood")
 Student2 = Student_Class("Aksay","A+","99.8%","Blackwood")
 
 
