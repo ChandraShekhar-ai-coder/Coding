@@ -1,2 +1,2 @@
 class Customer:
-    def
+    def __
