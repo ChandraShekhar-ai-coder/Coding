@@ -11,7 +11,7 @@ class  Student_Class:
         self.percentage = Percentage
         self.team = Team
     def Show_Details(self):
-        print(f"Name : {self.name}\n Grade : {self.grade}\nPercentage : {self.percentage} \nTeam : {s} ")
+        print(f"Name : {self.name}\n Grade : {self.grade}\nPercentage : {self.percentage} \nTeam : {se} ")
 Student1 = Student_Class("Shekhar","A+",99.8%,"Blackwood")
 
 
