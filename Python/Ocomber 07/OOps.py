@@ -15,6 +15,6 @@ class payment_tracker:
         self.customers.append(customer)
     def calculate_payment(self):
         total_cash = 0
-        total_card
+        total_card=
 
         
