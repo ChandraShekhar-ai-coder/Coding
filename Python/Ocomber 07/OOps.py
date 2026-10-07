@@ -4,7 +4,6 @@ class Customer:
         self.amount = amount
         self.payment_type = payment_type.upper()  # Ensures uppercase
 
-    # This method must be indented inside the class
     def Show_Payment(self):
         print(f"Name : {self.name} \nAmount : {self.amount} \nPayment Mode : {self.payment_type}\n\n")
 
