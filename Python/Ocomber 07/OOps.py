@@ -6,4 +6,4 @@ class Customer:
 
 
     def __str__():
-        print(f"Name : {self.name} /nAmount : {self.amount} /n Payment ")
+        print(f"Name : {self.name} /nAmount : {self.amount} /n Payment Mode :")
