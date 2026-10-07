@@ -8,7 +8,7 @@ class Customer:
         print(f"Name : {self.name} \nAmount : {self.amount} \nPayment Mode : {self.payment_type}\n\n")
 
 
-customer1 = Customer("Salman", 50000, "UPI")
+customer1 = Customer("Shw", 50000, "UPI")
 
 
 customer1.Show_Payment()
