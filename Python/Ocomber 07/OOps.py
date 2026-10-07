@@ -6,6 +6,7 @@ class Customer:
 
     def Show_Payment(self):
         print(f"Name : {self.name} \nAmount : {self.amount} \nPayment Mode : {self.payment_type}\n\n")
+        
 class payment_tracker:
     def __init__(self):
         self.customers=[]
