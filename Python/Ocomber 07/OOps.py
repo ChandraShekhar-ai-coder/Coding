@@ -12,3 +12,4 @@ customer1 = Customer("Shekhar", 50000, "UPI")
 
 
 customer1.Show_Payment()
+ 
