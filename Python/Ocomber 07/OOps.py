@@ -6,6 +6,6 @@ class Customer:
 
         customer1 = Customer("Salman",50000,"UPI")
 
-    def Show Payment():
+    def Show Payment(self):
         print(f"Name : {self.name} \nAmount : {self.amount} \n Payment Mode : {self.payment_type}\n\n")
 
