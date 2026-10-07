@@ -10,4 +10,4 @@ class Customer:
 
 class payment_tracker:
     def __init__(self):
-        self
+        self.customers
