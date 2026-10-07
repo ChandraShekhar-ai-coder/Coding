@@ -16,7 +16,7 @@ class  Student_Class:
 
 
 Student1 = Student_Class("Shekhar","A+","99.8%","Blackwood")
-Student2 = Student_Class("Aksay","A+","99.8%","Blackwood")
+Student = Student_Class("Aksay","A+","99.8%","Blackwood")
 Student = Student_Class("Rudra","A+","99.8%","New York")
 Student = Student_Class("Rishi","A+","99.8%","New York")
 Student = Student_Class("Golu","A+","99.8%","London")
