@@ -22,7 +22,7 @@ Student2 = Student_Class("Rishi","A+","99.8%","Blackwood")
 Student1 = Student_Class("Golu","A+","99.8%","Blackwood")
 Student2 = Student_Class("Ram","A+","99.8%","Blackwood")
 Student1 = Student_Class("Priyanka","A+","99.8%","Blackwood")
-Student2 = Student_Class("Devs","A+","99.8%","Blackwood")
+Student2 = Student_Class("Deva","A+","99.8%","Blackwood")
 
 
 Student1.Show_Details()
