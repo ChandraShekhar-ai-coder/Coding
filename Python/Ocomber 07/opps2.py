@@ -11,7 +11,7 @@ class  Student_Class:
         self.percentage = Percentage
         self.team = Team
 
-Student1 = Student_Class(Shekhar,A+,(9.))
+Student1 = Student_Class(Shekhar,A+,(9.8))
 
 
         
