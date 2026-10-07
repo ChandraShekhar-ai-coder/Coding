@@ -7,3 +7,5 @@ class Customer:
 
     def __str__():
         print(f"Name : {self.name} /nAmount : {self.amount} /n Payment Mode : {self.payment_type}")
+
+        
