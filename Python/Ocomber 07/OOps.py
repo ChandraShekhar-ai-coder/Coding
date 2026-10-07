@@ -1,13 +1,15 @@
 class Customer:
-    def __init__(self,name,amount,payment_type):
+    def __init__(self, name, amount, payment_type):
         self.name = name
         self.amount = amount
-        self.payment_type = payment_type.upper()  #to make this is in always uppercase
+        self.payment_type = payment_type.upper()  # Ensures uppercase
 
-    customer1 = Customer("Salman", 50000, "UPI")
-
+    # This method must be indented inside the class
     def Show_Payment(self):
-        print(f"Name : {self.name} \nAmount : {self.amount} \n Payment Mode : {self.payment_type}\n\n")
+        print(f"Name : {self.name} \nAmount : {self.amount} \nPayment Mode : {self.payment_type}\n\n")
 
-    customer1.Show_Payment()
+# Creating the object (instance) of the class
+customer1 = Customer("Salman", 50000, "UPI")
 
+# Calling the method to print details
+customer1.Show_Payment()
