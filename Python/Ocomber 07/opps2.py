@@ -25,8 +25,8 @@ Student7 = Student_Class("Priyanka","A+","99.8%","Los Angles")
 Student8 = Student_Class("Deva","B+","55.8%","London")
 
 
-Student1.Show_Details()
-Student2.Show_Details()
+# Student1.Show_Details()
+# Student2.Show_Details()
 
 
         
