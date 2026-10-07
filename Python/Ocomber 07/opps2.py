@@ -14,7 +14,7 @@ class  Student_Class:
     def Show_Details(self):
         print(f"Name : {self.name}\nGrade : {self.grade}\nPercentage : {self.percentage} \nTeam : {self.team}\n ")
 
-Students ={[ # full data in list format 
+Students =[ # full data in list format 
     Student = Student_Class("Shekhar","A+","99.8%","Blackwood"),
     Student = Student_Class("Aksay","A+","99.8%","Blackwood"),
     Student = Student_Class("Rudra","A+","99.8%","New York"),
@@ -23,7 +23,7 @@ Students ={[ # full data in list format
     Student = Student_Class("Ram","A+","99.8%","Los Angles"),
     Student = Student_Class("Priyanka","A+","99.8%","Los Angles"),
     Student = Student_Class("Deva","B+","55.8%","London"),
-     ]}
+     ]
 
 
 # Student1.Show_Details()
