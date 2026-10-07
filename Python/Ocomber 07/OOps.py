@@ -3,4 +3,6 @@ class Customer:
         self.name = name
         self.amount = amount
         self.payment_type = payment_type.upper()  #to make this is in always uppercase
+
+
     
