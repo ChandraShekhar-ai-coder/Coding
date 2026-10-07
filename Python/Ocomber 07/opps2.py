@@ -1,9 +1,4 @@
-# class payment_tracker:
-#     def __init__(self):
-#         self.customers=[]
-#     def add__customers(self,customer):
-#         self.customers.append(customer)
-#     def calculate_payment(self):
-#         total_cash = 0
-#         total_card = 0
-#         total_upi = 0
+Define a Student class with attributes name, grade, percentage, and team.
+• Include an __init__ method to initialize these attributes.
+• Add a method student_details that prints the student’s details in the format:
+"<name> is in <grade> grade with <percentage>%, from team <team>".
