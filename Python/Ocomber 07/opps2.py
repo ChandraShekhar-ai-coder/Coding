@@ -21,7 +21,7 @@ Student3 = Student_Class("Rudra","A+","99.8%","New York")
 Student4 = Student_Class("Rishi","A+","99.8%","New York")
 Student5 = Student_Class("Golu","A+","99.8%","London")
 Student6 = Student_Class("Ram","A+","99.8%","Los Angles")
-Student7 = Student_Class("Priyanka","A+","99.8%","Los Angles")
+Student = Student_Class("Priyanka","A+","99.8%","Los Angles")
 Student = Student_Class("Deva","B+","55.8%","London")
 
 
