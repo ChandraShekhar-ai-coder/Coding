@@ -11,5 +11,5 @@ class Customer:
 # Creating the object (instance) of the class
 customer1 = Customer("Salman", 50000, "UPI")
 
-# Calling the method to print details
+
 customer1.Show_Payment()
