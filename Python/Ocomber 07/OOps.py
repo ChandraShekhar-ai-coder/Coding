@@ -6,7 +6,7 @@ class Customer:
 
 
     def __str__():
-        print(f"Name : {self.name} /nAmount : {self.amount} /n Payment Mode : {self.payment_type}?n")
+        print(f"Name : {self.name} /nAmount : {self.amount} /n Payment Mode : {self.payment_type}/n/")
 
 class payment_tracker:
     def __init__(self):
