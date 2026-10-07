@@ -9,4 +9,4 @@ class Customer:
         print(f"Name : {self.name} /nAmount : {self.amount} /n Payment Mode : {self.payment_type}")
 
 class payment_tracker:
-    def 
+    def __init
