@@ -29,7 +29,7 @@ Students =[
 # Student2.Show_Details()
 
 
-for i in Students: # use for 
+for i in Students: # use for loop so we don write too long codes 
     i.Show_Details()
 
 
