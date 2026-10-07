@@ -5,7 +5,7 @@ Define a Student class with attributes name, grade, percentage, and team.
 "<name> is in <grade> grade with <percentage>%, from team <team>".
 """
 class  Student_Class:
-    def __init__(self,name,grade,percentage,team)
+    def __init__(self,ame,grade,percentage,team)
         self.name = name
         self.grade = grade
         self.percentage = 
