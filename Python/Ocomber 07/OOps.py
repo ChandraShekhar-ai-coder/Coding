@@ -15,5 +15,4 @@ class payment_tracker:
         self.customers.append(customer)
 
 
-
         
