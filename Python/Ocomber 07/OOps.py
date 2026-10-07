@@ -8,7 +8,7 @@ class Customer:
     def Show_Payment(self):
         print(f"Name : {self.name} \nAmount : {self.amount} \nPayment Mode : {self.payment_type}\n\n")
 
-# Creating the object (instance) of the class
+
 customer1 = Customer("Salman", 50000, "UPI")
 
 
