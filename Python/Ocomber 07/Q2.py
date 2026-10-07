@@ -6,4 +6,4 @@ class Team_1:
 
 
 
-class Team_1:
+class Team_2:
