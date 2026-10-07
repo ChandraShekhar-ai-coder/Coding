@@ -6,7 +6,7 @@ Define a Student class with attributes name, grade, percentage, and team.
 """
 class  Student_Class:
     def __init__(self,Name,Grade,Percentage,Team)
-        self.name = ame
+        self.name = Name
         self.grade = grade
         self.percentage = 
 
