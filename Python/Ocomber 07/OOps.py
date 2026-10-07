@@ -5,4 +5,4 @@ class Customer:
         self.payment_type = payment_type.upper()  #to make this is in always uppercase
 
 
-    def __str__
+    def __str__()
