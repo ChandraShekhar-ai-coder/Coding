@@ -17,3 +17,4 @@ class payment_tracker:
         total_cash = 0
         total_card = 0
         total_upi = 0
+
