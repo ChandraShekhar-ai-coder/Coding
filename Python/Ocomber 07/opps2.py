@@ -11,7 +11,7 @@ class  Student_Class:
         self.percentage = Percentage
         self.team = Team
 
-        
+    
 
 
         
