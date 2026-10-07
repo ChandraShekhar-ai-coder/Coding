@@ -16,4 +16,5 @@ class payment_tracker:
     def calculate_payment(self):
         total_cash = 0
         total_card = 0
-        total_upi = 0        
+        total_upi = 0
+                
