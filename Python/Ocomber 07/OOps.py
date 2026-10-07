@@ -2,4 +2,4 @@ class Customer:
     def __init__(self,name,amount,payment_type):
         self.name = name
         self.amount = amount
-        self.payment_type = payment_type.upper()  #to make 
+        self.payment_type = payment_type.upper()  #to make this is in alwasys uppercase
