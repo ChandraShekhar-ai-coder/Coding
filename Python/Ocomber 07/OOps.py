@@ -2,4 +2,4 @@ class Customer:
     def __init__(self,name,amount,payment_type):
         self.name = name
         self.amount = amount
-        self.payment_type = payment_type.uppef
+        self.payment_type = payment_type.upper
