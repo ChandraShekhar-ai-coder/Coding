@@ -17,7 +17,7 @@ class  Student_Class:
 Students =[ # full data in list format 
     Student_Class("Shekhar","A+","99.8%","Blackwood"),
      Student_Class("Aksay","A+","99.8%","Blackwood"),
-    Student_Class("Rudra","A+","99.8%","New York"),
+     Student_Class("Rudra","A+","99.8%","New York"),
      Student_Class("Rishi","A+","99.8%","New York"),
      Student_Class("Golu","A+","99.8%","London"),
      Student_Class("Ram","A+","99.8%","Los Angles"),
