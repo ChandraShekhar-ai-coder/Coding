@@ -1,0 +1,1 @@
+2. Create two teams (team1 and team2) as string variables.
