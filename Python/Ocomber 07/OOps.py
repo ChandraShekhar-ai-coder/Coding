@@ -1,2 +1,2 @@
 class payment:
-    Customer
+    Customer1
