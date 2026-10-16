@@ -66,7 +66,7 @@ for name, marks    in students.items():
  print(f"{name} : {marks}")
 
 print("\nstudents who scored 80 or above.")
-for name, marks    in students.items():
+for name, marks in students.items():
  if marks>80:
 
   print(f"{name} : {marks}")
