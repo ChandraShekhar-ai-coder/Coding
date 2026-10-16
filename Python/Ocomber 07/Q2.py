@@ -1,5 +1,5 @@
 def find_primes(numbers):
-    primes = []
+    primes = [344,4,3454,54,445,5,]
 
     for num in numbers:
         if num < 2:
