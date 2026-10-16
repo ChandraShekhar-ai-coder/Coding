@@ -1,4 +1,4 @@
-""" def find_primes(numbers):
+ def find_primes(numbers):
     primes = []
 
     for num in numbers:
