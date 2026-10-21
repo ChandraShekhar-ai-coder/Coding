@@ -1,1 +1,1 @@
-text="Good Morinig"
+text="Good Morning"
