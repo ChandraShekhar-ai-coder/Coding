@@ -14,3 +14,4 @@ for a in text:
     i = a + i
 print(i)
 """
+
