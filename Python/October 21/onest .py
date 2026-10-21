@@ -21,4 +21,4 @@ print(i)
 
 Input_=input("Enter Your Word :  ")
 print("Checking Panlindrome...  ")
-Reversed_String=[::-1]
+Reversed_String=Inpu[::-1]
