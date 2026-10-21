@@ -7,4 +7,4 @@ text="Good Morning"
 a=""
 for a in text:
     i = a + text
-print(a)
+print(i)
