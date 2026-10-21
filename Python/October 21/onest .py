@@ -4,7 +4,7 @@ print(text)
 print(f"Reversed text : {Reversed_String}")
 """
 text="Good Morning"
-i=
+i=""
 for i in text:
     i = i + text
 print(i)
