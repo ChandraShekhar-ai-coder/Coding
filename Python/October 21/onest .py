@@ -22,4 +22,4 @@ print(i)
 Input_=input("Enter Your Word :  ")
 print("Checking Panlindrome...  ")
 Reversed_String=Input_[::-1]
-if Input_.lower() == 
+if Input_lower() == 
