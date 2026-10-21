@@ -24,7 +24,7 @@ print("Checking Panlindrome...  ")
 print()
 Reversed_String=Input_[::-1]
 Input_hii= Input_.lower()
-Reversed_String_ = Reversed_String.lower()
+Reversed_String_hii = Reversed_String.lower()
 
 if Input_hii ==Reversed_String_hii:
     print("Yes. It is a Palindrome")
