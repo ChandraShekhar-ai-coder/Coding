@@ -19,3 +19,4 @@ print(i)
 # Example: Madam → Palindrome
 # Concepts: String methods, slicing, if-else
 
+Input
