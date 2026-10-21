@@ -7,9 +7,9 @@
 Reversed_String=text[::-1]
 print(text)
 print(f"Reversed text : {Reversed_String}")
-"""
+
 text="Good Morning"
 i=""
 for a in text:
     i = a + i
-print(i)
+print(i)"""
