@@ -1,4 +1,4 @@
 text="Good Morning"
 Reversed_String=text[::-1]
 print(text)
-print(f"Reversed text : {Re}")
+print(f"Reversed text : {Reversed_String}")
