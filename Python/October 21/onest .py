@@ -20,7 +20,7 @@ print(i)
 # Concepts: String methods, slicing, if-else
 
 Input_=input("Enter Your Word :  ")
-print("Checking Panlindrome...  ")
+print("Checking Palindrome...  ")
 print()
 Reversed_String=Input_[::-1]
 Input_hii= Input_.lower()
