@@ -26,7 +26,7 @@ Reversed_String=Input_[::-1]
 # Input_hii= Input_.lower()
 # Reversed_String_hii = Reversed_String.lower()
 
-if Input_hii ==Reversed_String:
+if Input_ ==Reversed_String:
     print(f"Yes.{Input_} is a Palindrome.")
 else:
     print(f"No. {Input_} is not a Palindrome.")
