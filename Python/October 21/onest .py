@@ -1,2 +1,2 @@
 text="Good Morning"
-Reversed_String=
+Reversed_String=text
