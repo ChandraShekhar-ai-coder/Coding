@@ -23,9 +23,7 @@ Input_=input("Enter Your Word :  ")
 print("Checking Panlindrome...  ")
 print()
 Reversed_String=Input_[::-1]
-Input_hii= Input_.lower(
-    
-)
+Input_hii= Input_.lower()
 
 if Input_hii ==Reversed_String_hii:
     print("Yes. It is a Palindrome")
