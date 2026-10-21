@@ -18,3 +18,4 @@ print(i)
 # Check whether a word reads the same forward and backward, ignoring letter case.
 # Example: Madam → Palindrome
 # Concepts: String methods, slicing, if-else
+
