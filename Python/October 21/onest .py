@@ -6,5 +6,5 @@ print(f"Reversed text : {Reversed_String}")
 text="Good Morning"
 i=""
 for a in text:
-    i = i + text
+    i = a + text
 print(i)
