@@ -1,1 +1,2 @@
+.lower()
 Reversed_String_hii = Reversed_String.lower()
