@@ -26,3 +26,5 @@ if Input_.lower() ==Reversed_String.lower():
     print("Yes. It is a Palindrome")
 else:
     print("This is not a Palindrome")
+
+    
