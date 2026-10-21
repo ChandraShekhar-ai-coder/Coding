@@ -21,4 +21,4 @@ print(i)
 
 Input_=input("Enter Your Word :  ")
 print("Checking Panlindrome...  ")
-Re
+Reveere
