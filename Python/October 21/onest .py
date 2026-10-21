@@ -23,11 +23,11 @@ Input_=input("Enter Your Word :  ")
 print("Checking Panlindrome...  ")
 print()
 Reversed_String=Input_[::-1]
-# Input_hii= Input_.lower()
-# Reversed_String_hii = Reversed_String.lower()
+Input_hii= Input_.lower()
+Reversed_String_hii = Reversed_String.lower()
 
-if Input_ ==Reversed_String:
-    print(f"Yes.{Input_} is a Palindrome.")
+if Input_hii ==Reversed_String_hii:
+    print(f"Yes.{Input_} is a Palindrome")
 else:
-    print(f"No. {Input_} is not a Palindrome.")
+    print(f"No. {Input_} is not a Palindrome")
 
