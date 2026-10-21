@@ -23,7 +23,7 @@ Input_=input("Enter Your Word :  ")
 print("Checking Panlindrome...  ")
 print()
 Reversed_String=Input_[::-1]
-Input_hii= Input_.lower()
+# Input_hii= Input_.lower()
 # Reversed_String_hii = Reversed_String.lower()
 
 if Input_hii ==Reversed_String:
