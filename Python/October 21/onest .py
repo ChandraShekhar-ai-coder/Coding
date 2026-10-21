@@ -20,4 +20,4 @@ print(i)
 # Concepts: String methods, slicing, if-else
 
 Input_=input("Enter Your Word :  ")
-print("Checking Panlindrome")
+print("Checking Panlindrome...")
