@@ -9,5 +9,5 @@ class rectangle:
 
 if __name__ == "__main__":
  rectangle1 = rectangle("Rahul Sharma", "2026BTCS042")
- rectangle1._Details()
+ rectangle1.re_Details()
         
