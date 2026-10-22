@@ -4,4 +4,4 @@ class rectangle:
         self.breath = breath
 
         def rectangle_details(self):
-            print(f"Rectangle length = {self.})
+            print(f"Rectangle length = {self.length})
