@@ -1,4 +1,4 @@
 class students:
     def __init__(self,name,roll_no):
         self.name=name
-        self.roll_no= roll ni
+        self.roll_no= roll no
