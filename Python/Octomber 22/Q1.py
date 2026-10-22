@@ -3,6 +3,6 @@ class students:
         self.name = name
         self.roll_no = roll_number
 
-    def display_details
+    def display_details()
 
 
