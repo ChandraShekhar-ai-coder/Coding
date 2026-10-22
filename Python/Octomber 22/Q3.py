@@ -6,6 +6,7 @@ class rectangle:
         def rectangle_details(self):
             print(f"Rectangle length = {self.length}")
             print(f"Rectangle Breath = {self.breath}")
+            
 
 if __name__ == "__main__":
  rectangle1 = rectangle("Rahul Sharma", "2026BTCS042")
