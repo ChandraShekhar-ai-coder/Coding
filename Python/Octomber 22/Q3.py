@@ -12,11 +12,6 @@ class rectangle:
         return self.length * self.breadth        
 
 
-
-
-
-
-
 # Create an object
 rect = rectangle(10, 5)
 
