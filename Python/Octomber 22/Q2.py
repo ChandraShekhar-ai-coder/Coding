@@ -6,4 +6,4 @@ class car:
     def Car_Deails(self):
         print("--- Car Details ---")
                 print(f"Brand    : {self.brand}")
-                print(f" : {self.color}")
+                print(f"Color : {self.color}")
