@@ -8,7 +8,7 @@ class Employee:
     def display_details(self):
         print("--- Employee Details ---")
         print(f"Name   : {self.name}")
-        print(f"Salary : ₹{self.salary:,}") # Formats the number with commas
+        print(f"Salary : ₹{self.salary:,}") 
 
 # Example usage:
 if __name__ == "__main__":
