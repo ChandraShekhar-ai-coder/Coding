@@ -10,5 +10,5 @@ class car:
 
 if __name__ == "__main__":
  car1 = car("Rahul Sharma", "2026BTCS042")
- car1.Car_Deails()
+ car1.Car_Deaitls()
         
