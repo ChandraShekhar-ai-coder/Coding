@@ -1,2 +1,3 @@
 class car:
-    def __
+    def __init__(self):
+        pass
