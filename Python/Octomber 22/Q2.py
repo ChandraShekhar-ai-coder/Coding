@@ -9,6 +9,6 @@ class car:
         print(f"Car's Color  : {self.color}")
 
 if __name__ == "__main__":
-car1 = car("Rahul Sharma", "2026BTCS042")
+ car1 = car("Rahul Sharma", "2026BTCS042")
 car.Car_Deails()
         
