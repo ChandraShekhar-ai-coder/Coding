@@ -1,2 +1,3 @@
 class rectangle:
-    def
+    def __init__(self):
+        pass
