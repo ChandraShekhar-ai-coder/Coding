@@ -12,7 +12,7 @@ class Employee:
 
 # Example usage:
 if __name__ == "__main__":
-    # Creating an object instance of the Employee class
+    
     emp1 = Employee("Rahul Sharma", 75000)
     
     # Calling the method to display details
