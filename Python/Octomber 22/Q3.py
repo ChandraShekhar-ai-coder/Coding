@@ -12,8 +12,6 @@ class rectangle:
         return self.length * self.breadth        
 
 
-rectangle1 = rectangle("Rahul Sharma", "2026BTCS042")
-rectangle1.rectangle_details()
 
 
 
