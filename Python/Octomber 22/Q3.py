@@ -7,6 +7,7 @@ class rectangle:
         print("--- Rectangle Details   ---\n")
         print(f"Rectangle length = {self.length}")
         print(f"Rectangle Breath = {self.breath}")
+        
     def calculate_area(self):
         return self.length * self.breadth        
 
