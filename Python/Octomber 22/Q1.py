@@ -1,7 +1,7 @@
 class students:
     def __init__(self,name,roll_no):
         self.name = name
-        self.roll_no = roll_number
+        self.roll_no = roll_no
 
     def display_details(self):
         print("--- Student Details ---")
