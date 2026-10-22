@@ -4,7 +4,7 @@ class car:
         self.color = color
 
     def Car_Details(self):
-        print("--- Car Details ---\n")
+        print("--- Car Details   ---\n")
         print(f"Car's Brand    : {self.brand}")
         print(f"Car's Color  : {self.color}")
 
