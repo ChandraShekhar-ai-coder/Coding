@@ -6,6 +6,6 @@ class students:
     def display_details(self):
          print("--- Student Details ---")
         print(f"Name       : {self.name}")
-    print(f"Roll Number: {self.roll_number}")
+        print(f"Roll Number: {self.roll_number}")
 
 
