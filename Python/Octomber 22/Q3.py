@@ -14,3 +14,12 @@ rectangle1 = rectangle("Rahul Sharma", "2026BTCS042")
 rectangle1.rectangle_details()
 
 
+   def calculate_area(self):
+        return self.length * self.breadth
+
+
+# Create an object
+rect = Rectangle(10, 5)
+
+# Display the area
+print("Area of Rectangle:", rect.calculate_area())
