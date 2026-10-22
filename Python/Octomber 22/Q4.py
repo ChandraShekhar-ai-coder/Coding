@@ -6,7 +6,7 @@ class Employee:
 
     
     def display_details(self):
-        print("--- Employee Details ---")
+        print("--- Employee Details ---\n")
         print(f"Name   : {self.name}")
         print(f"Salary : ₹{self.salary:,}") 
 
