@@ -10,7 +10,7 @@ class Employee:
         print(f"Name   : {self.name}")
         print(f"Salary : ₹{self.salary:,}") 
 
-# Example usage:
+
 if __name__ == "__main__":
     
     emp1 = Employee("Rahul Sharma", 75000)
