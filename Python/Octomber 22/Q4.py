@@ -18,3 +18,5 @@ class Employee:
    
 #     emp1.display_details()
 
+emp1.display_details()
+
