@@ -4,7 +4,7 @@ class Employee:
         self.name = name
         self.salary = salary
 
-    # Method to display the employee's details
+    
     def display_details(self):
         print("--- Employee Details ---")
         print(f"Name   : {self.name}")
