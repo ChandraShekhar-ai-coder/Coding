@@ -7,3 +7,4 @@ class car:
         print("--- Car Details ---")
                 print(f"Car's Brand    : {self.brand}")
                 print(f"Car's Color  : {self.color}")
+        
