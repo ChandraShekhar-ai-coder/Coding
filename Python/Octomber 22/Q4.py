@@ -15,5 +15,5 @@ if __name__ == "__main__":
     
     emp1 = Employee("Rahul Sharma", 75000)
     
-   
+    # Calling the method to display details
     emp1.display_details()
