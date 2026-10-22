@@ -6,9 +6,14 @@ class Employee:
 
     
     def display_details(self):
-        print("--- Employee Details ---\n")
+        print("--- Employee Details ---")
         print(f"Name   : {self.name}")
         print(f"Salary : ₹{self.salary:,}") 
 
 
-
+if __name__ == "__main__":
+    
+    emp1 = Employee("Rahul Sharma", 75000)
+    
+   
+    emp1.display_details()
