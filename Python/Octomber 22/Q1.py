@@ -1,2 +1,2 @@
 class students:
-    def __
+    def __i
