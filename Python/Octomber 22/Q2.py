@@ -8,5 +8,6 @@ class car:
         print(f"Car's Brand    : {self.brand}")
         print(f"Car's Color  : {self.color}")
 
-car1 = car("Rahul Sharma", "2026BTCS042") car.Car_Deails()
+car1 = car("Rahul Sharma", "2026BTCS042")
+car.Car_Deails()
         
