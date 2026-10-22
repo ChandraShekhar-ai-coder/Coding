@@ -1,3 +1,3 @@
 class students:
-    def __init__(self,nameroll_no):
+    def __init__(self,name,roll_no):
         
