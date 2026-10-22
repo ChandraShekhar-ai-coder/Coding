@@ -20,7 +20,7 @@ rectangle1.rectangle_details()
 
 
 # Create an object
-rect = Rrectangle(10, 5)
+rect = rectangle(10, 5)
 
 # Display the area
 print("Area of Rectangle:", rect.calculate_area())
