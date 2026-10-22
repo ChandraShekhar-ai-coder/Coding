@@ -4,6 +4,8 @@ class students:
         self.roll_no = roll_number
 
     def display_details(self):
-        student
+         print("--- Student Details ---")
+        print(f"Name       : {self.name}")
+        print(f"Roll Number: {self.roll_number}")
 
 
