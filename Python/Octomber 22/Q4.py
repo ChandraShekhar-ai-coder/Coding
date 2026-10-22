@@ -1,5 +1,5 @@
 class Employee:
-    # The __init__ method acts as the constructor to initialize properties
+    
     def __init__(self, name, salary):
         self.name = name
         self.salary = salary
