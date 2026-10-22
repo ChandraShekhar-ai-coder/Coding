@@ -9,5 +9,5 @@ class car:
         print(f"Car's Color  : {self.color}")
 
 car1 = car("Rahul Sharma", "2026BTCS042")
- student1.display_details()
+ car.display_details()
         
