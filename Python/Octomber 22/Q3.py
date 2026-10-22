@@ -5,5 +5,5 @@ class rectangle:
 
         def rectangle_details(self):
             print(f"Rectangle length = {self.length}")
-                  rint(f"Rectangle Breath = {self.breath})
+                  rint(f"Rectangle Breath = {self.breath}")
                   
