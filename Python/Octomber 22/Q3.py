@@ -7,15 +7,15 @@ class rectangle:
         print("--- Rectangle Details   ---\n")
         print(f"Rectangle length = {self.length}")
         print(f"Rectangle Breath = {self.breath}")
-            
+    def calculate_area(self):
+        return self.length * self.breadth        
 
 
 rectangle1 = rectangle("Rahul Sharma", "2026BTCS042")
 rectangle1.rectangle_details()
 
 
-def calculate_area(self):
-        return self.length * self.breadth
+
 
 
 # Create an object
