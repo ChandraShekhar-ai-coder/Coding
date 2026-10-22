@@ -5,5 +5,5 @@ class car:
 
     def Car_Deails(self):
         print("--- Car Details ---")
-                print(f"Name     : {self.name}")
+                print(f"Brand    : {self.name}")
                 print(f"Roll No. : {self.roll_no}")
