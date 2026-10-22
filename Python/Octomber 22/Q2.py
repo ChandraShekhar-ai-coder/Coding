@@ -3,4 +3,4 @@ class car:
         self.brand = brand_name
         self.color = car_color
 
-    def Car_Deails()
+    def Car_Deails(self)
