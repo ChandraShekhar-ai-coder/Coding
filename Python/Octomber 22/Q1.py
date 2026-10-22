@@ -9,6 +9,6 @@ class students:
         print(f"Roll Number: {self.roll_no}")
 
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 student1 = students("Rahul Sharma", "2026BTCS042")
 student1.display_details
