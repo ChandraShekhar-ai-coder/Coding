@@ -8,6 +8,6 @@ class rectangle:
             print(f"Rectangle Breath = {self.breath}")
 
 if __name__ == "__main__":
- c = car("Rahul Sharma", "2026BTCS042")
+  = car("Rahul Sharma", "2026BTCS042")
  car1.Car_Details()
         
