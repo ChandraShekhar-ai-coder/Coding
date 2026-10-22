@@ -11,4 +11,4 @@ class students:
 
 # if __name__ == "__main__":
 student1 = Student("Rahul Sharma", "2026BTCS042")
-student
+student1.
