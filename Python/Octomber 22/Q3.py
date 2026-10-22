@@ -12,7 +12,7 @@ class rectangle:
         return self.length * self.breadth        
 
 
-
+rect = rectangle(10, 5)
 rect.rectangle_details()
 
 
@@ -20,7 +20,7 @@ rect.rectangle_details()
 
 
 # Create an object
-rect = rectangle(10, 5)
+
 
 # Display the area
 print("Area of Rectangle:", rect.calculate_area())
