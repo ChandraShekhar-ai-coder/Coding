@@ -3,4 +3,4 @@ class rectangle:
         self.length = length
         self.breath = breath
 
-        def rectangle__
+        def rectangle_details
