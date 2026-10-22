@@ -17,6 +17,6 @@ class Employee:
     
    
 #     emp1.display_details()
-
+emp1 = Employee("Rahul Sharma", 75000)
 emp1.display_details()
 
