@@ -14,7 +14,7 @@ rectangle1 = rectangle("Rahul Sharma", "2026BTCS042")
 rectangle1.rectangle_details()
 
 
-   def calculate_area(self):
+def calculate_area(self):
         return self.length * self.breadth
 
 
