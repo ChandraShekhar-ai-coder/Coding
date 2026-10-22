@@ -1,7 +1,7 @@
 class car:
     def __init__(self,brand,color):
         self.brand = brand
-        self.color = cololr
+        self.color = colo
 
     def Car_Details(self):
         print("--- Car Details ---\n")
