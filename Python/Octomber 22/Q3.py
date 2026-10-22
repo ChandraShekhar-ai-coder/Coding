@@ -13,7 +13,7 @@ class rectangle:
 
 
 
-rectangle1.rectangle_details()
+rect.rectangle_details()
 
 
 
