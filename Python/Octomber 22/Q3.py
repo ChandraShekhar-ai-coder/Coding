@@ -6,5 +6,7 @@ class rectangle:
         def rectangle_details(self):
             print(f"Rectangle length = {self.length}")
             print(f"Rectangle Breath = {self.breath}")
-
-rectangle1
+if __name__ == "__main__":
+ car1 = car("Rahul Sharma", "2026BTCS042")
+ car1.Car_Details()
+        
