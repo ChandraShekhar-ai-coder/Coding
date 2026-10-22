@@ -1,2 +1,3 @@
 class students:
-    def __i
+    def __init__(self):
+        pass
