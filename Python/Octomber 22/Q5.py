@@ -1,2 +1,2 @@
 s = "hello hii iij"
-print(s[7:])
+print(s[19:])
