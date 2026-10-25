@@ -1,2 +1,2 @@
 s = "hello hii iij"
-s[7:]
+(s[7:])
