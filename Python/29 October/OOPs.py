@@ -14,7 +14,7 @@ Student1=Student("Name","Roll No","Course")
 Student1=Student("Name","Roll No","Course")
 Student1=Student("Name","Roll No","Course")
 Student1=Student("Name","Roll No","Course")
-Student1=Student("Name","Roll No","Course")v
+Student1=Student("Name","Roll No","Course")
 Student1.details()
 
 
