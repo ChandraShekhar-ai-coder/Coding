@@ -7,7 +7,7 @@ class Car:
         
         print(f"{self.brand}    {self.color}    {self.speed}")
 
-print(f"--- Details---")
+print(f"---Car Details---")
 Student0=Student("Name","Roll NO","      Course")
 Student1=Student(" Name","01    ","      LLB")
 Student2=Student("   Shekhar","02  ","   MBA")
