@@ -3,4 +3,4 @@ class Student:
        self.name    = name
        self.roll_no = roll_no
        self.course  =  course 
-    def Details()
+    def Details(self)
