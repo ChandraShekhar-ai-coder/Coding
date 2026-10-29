@@ -9,4 +9,4 @@ class Rectangle:
 
 print(f"---Rectangle Details---")
 Rectangle0=Rectangle(10,24)
-car5.details()
+Re.details()
