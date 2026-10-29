@@ -12,9 +12,6 @@ Student1=Student("Shekhar","Roll No","Course")
 Student1=Student("Anubhav","Roll No","Course")
 Student1=Student("Ravan","Roll No","Course")
 Student1=Student("Khumbkaran","Roll No","Course")
-Student1=Student("Name","Roll No","Course")
-Student1=Student("Name","Roll No","Course")
-Student1=Student("Name","Roll No","Course")
 Student1.details()
 
 
