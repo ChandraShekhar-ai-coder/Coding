@@ -1,3 +1,3 @@
 class Student:
-    def __init__(self,name):
+    def __init__(self,name,roll):
         `pass`
