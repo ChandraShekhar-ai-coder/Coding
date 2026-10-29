@@ -4,5 +4,5 @@ class Student:
        self.roll_no = roll_no
        self.course  =  course 
     def Details(self):
-        
+        print
     
