@@ -6,6 +6,8 @@ class Student:
     def details(self):
         print(f"---Student Details---")
         print(f"{self.roll_no}    {self.name}    {self.course}")
+
+        
 Student1=Student("Name","Roll NO","Course")
 Student1=Student("Name","01","LLB")
 Student2=Student("Shekhar","02","MBA")
