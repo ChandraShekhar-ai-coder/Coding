@@ -5,7 +5,7 @@ class Student:
        self.course  = course 
     def details(self):
         print(f"---Student Details---")
-        print(f"{self.roll_no}{self.name}       {self.course}")
+        print(f"{self.roll_no}    {self.name}       {self.course}")
 
 Student1=Student("Name","01","LLB")
 Student1=Student("Shekhar","02","MBA")
