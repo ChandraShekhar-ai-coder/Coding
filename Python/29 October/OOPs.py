@@ -8,4 +8,4 @@ class Student:
         print(f"{self.name}    {self.roll_no}    {self.course}")
 
 Student1=Student("Name","Roll No","Course")
-Student1.Details
+Student1.Details()
