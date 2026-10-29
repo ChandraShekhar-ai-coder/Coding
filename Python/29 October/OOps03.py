@@ -1,5 +1,5 @@
 class car:
-    def __init__(self,length,breath,):
+    def __init__(self,length,breath):
        self.length   = length
        self.breath = breath
        
