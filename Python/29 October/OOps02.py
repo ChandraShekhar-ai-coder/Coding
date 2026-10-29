@@ -2,7 +2,7 @@ class Student:
     def __init__(self,car,color,speed):
        self.name    = car
        self.roll_no = color
-       self.course  = speed 
+       self.speed  = speed 
     def details(self):
         
         print(f"{self.roll_no}    {self.name}    {self.course}")
