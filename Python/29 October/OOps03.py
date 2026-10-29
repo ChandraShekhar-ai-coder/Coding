@@ -5,7 +5,7 @@ class Rectangle:
        
     def details(self):
         
-        print(f"{self.length}    {self.breath} {self.length*}   ")
+        print(f"{self.length}    {self.breath} {self.length*self}   ")
 
 print(f"---Rectangle Details---")
 Rectangle0=Rectangle(10,24)
