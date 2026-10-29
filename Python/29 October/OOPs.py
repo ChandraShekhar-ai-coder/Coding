@@ -17,8 +17,7 @@ Student2.details()
 Student3.details()
 Student4.details()
 Student5.details()
-Student6.details()
-Student7.details()
+
 
 
 
