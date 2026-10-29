@@ -1,4 +1,4 @@
-class Rec:
+class Rectangle:
     def __init__(self,brand,color,speed):
        self.brand   = brand
        self.color = color
