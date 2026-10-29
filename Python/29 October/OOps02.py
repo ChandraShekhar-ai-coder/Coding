@@ -10,7 +10,7 @@ class Car:
 print(f"---Car Details---")
 car0=car("Name","Roll NO","      Course")
 car1=car(" Name","01    ","      LLB")
-car\2=car("   Shekhar","02  ","   MBA")
+car2=car("   Shekhar","02  ","   MBA")
 car3=car("   Anubhav","03  ","   MCA")
 car4=car(" Ravan","04    ","     B.Tech")
 car5=car("  Khumbkaran","05   ","BCA")
