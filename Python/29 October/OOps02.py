@@ -5,7 +5,7 @@ class Car:
        self.speed  = speed 
     def details(self):
         
-        print(f"{self.brand}    {self.name}    {self.course}")
+        print(f"{self.brand}    {self.color}    {self.course}")
 
 print(f"---Student Details---")
 Student0=Student("Name","Roll NO","      Course")
