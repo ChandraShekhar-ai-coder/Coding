@@ -1,1 +1,1 @@
-class Student
+class Student:
