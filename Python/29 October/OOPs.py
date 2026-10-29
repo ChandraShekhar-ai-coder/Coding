@@ -9,7 +9,7 @@ class Student:
 
 print(f"---Student Details---")
 Student0=Student("Name","Roll NO","Course")
-Student1=Student("Name","01","LLB")
+Student1=Student("Name","01    ","LLB")
 Student2=Student("Shekhar","02","MBA")
 Student3=Student("Anubhav","03","MCA")
 Student4=Student("Ravan","04","B.Tech")
