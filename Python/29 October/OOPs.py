@@ -9,3 +9,7 @@ class Student:
 
 Student1=Student("Name","Roll No","Course")
 Student1.details()
+
+
+
+
