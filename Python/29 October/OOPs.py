@@ -7,5 +7,5 @@ class Student:
         print(f"---Student Details---")
         print(f"{self.name}    {self.roll_no}    {self.course}")
 
-Student1=Students("Name","Roll No","Course")
+Student1=Student("Name","Roll No","Course")
 
