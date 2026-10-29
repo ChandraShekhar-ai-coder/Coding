@@ -8,4 +8,4 @@ class Rectangle:
         print(f"{self.length}    {self.breath}    ")
 
 print(f"---Rectangle Details---")
-Rectangle0=Rectangle(10)
+Rectangle0=Rectangle(10,24)
