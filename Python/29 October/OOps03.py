@@ -7,5 +7,5 @@ class car:
         
         print(f"{self.length}    {self.breath}    ")
 
-print(f"---Car Details---")
+print(f"---Rectangle Details---")
 car0=car("Name","Roll NO","      Course")
