@@ -1,3 +1,3 @@
 class Student:
     def __init__(self,name,roll_no,course):
-       self.name
+       self.name = name
