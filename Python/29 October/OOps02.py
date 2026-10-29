@@ -1,6 +1,6 @@
 class Student:
     def __init__(self,car,color,speed):
-       self.name    = callabler
+       self.name    = r
        self.roll_no = roll_no
        self.course  = course 
     def details(self):
