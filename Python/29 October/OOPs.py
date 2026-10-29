@@ -7,8 +7,8 @@ class Student:
         print(f"---Student Details---")
         print(f"{self.roll_no}    {self.name}    {self.course}")
 
-        
-Student1=Student("Name","Roll NO","Course")
+
+Student0=Student("Name","Roll NO","Course")
 Student1=Student("Name","01","LLB")
 Student2=Student("Shekhar","02","MBA")
 Student3=Student("Anubhav","03","MCA")
