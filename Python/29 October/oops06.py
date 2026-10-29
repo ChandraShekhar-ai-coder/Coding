@@ -1,7 +1,6 @@
 from datetime import date, datetime
 from typing import Optional
-from pydantic import BaseModel
-from pydantic import BaseModel
+from pydantic import BaseModel, EmailStr, Field
 class UserRegister(BaseModel):
     email: EmailStr
     password: str = Field(..., min_length=8, description="Password must be at least 8 characters long")
