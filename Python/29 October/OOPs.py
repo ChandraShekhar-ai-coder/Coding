@@ -9,7 +9,7 @@ class Student:
 
 Student1=Student("Name","Roll No","Course")
 Student1=Student("Shekhar","Roll No","Course")
-Student1=Student("Name","Roll No","Course")
+Student1=Student("","Roll No","Course")
 Student1=Student("Name","Roll No","Course")
 Student1=Student("Name","Roll No","Course")
 Student1=Student("Name","Roll No","Course")
