@@ -1,6 +1,6 @@
 class Student:
     def __init__(self,car,color,speed):
-       self.name    = 
+       self.name    = car
        self.roll_no = roll_no
        self.course  = course 
     def details(self):
