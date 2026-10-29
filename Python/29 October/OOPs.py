@@ -11,7 +11,7 @@ Student1=Student("Name","01","LLB")
 Student2=Student("Shekhar","02","MBA")
 Student3=Student("Anubhav","03","MCA")
 Student4=Student("Ravan","04",".Tech")
-Student1=Student("Khumbkaran","05","BCA")
+Student5=Student("Khumbkaran","05","BCA")
 Student1.details()Student1.details()" \
 "Student1.details()Student1.details()
 Student1.details()
