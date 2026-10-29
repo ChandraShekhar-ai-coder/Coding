@@ -5,5 +5,5 @@ class Student:
        self.course  =  course 
     def Details(self):
         print(f"---Student Details---")
-        print(f)
+        print(f"")
     
