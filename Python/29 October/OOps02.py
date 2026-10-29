@@ -1,6 +1,6 @@
 class Student:
     def __init__(self,car,color,speed):
-       self.   = car
+       self.car   = car
        self.color = color
        self.speed  = speed 
     def details(self):
