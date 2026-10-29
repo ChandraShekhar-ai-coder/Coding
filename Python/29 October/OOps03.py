@@ -5,7 +5,7 @@ class car:
        
     def details(self):
         
-        print(f"{self.length}    {self.breath}    {self.}")
+        print(f"{self.length}    {self.breath}    ")
 
 print(f"---Car Details---")
 car0=car("Name","Roll NO","      Course")
