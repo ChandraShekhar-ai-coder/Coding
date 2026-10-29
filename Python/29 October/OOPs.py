@@ -2,5 +2,5 @@ class Student:
     def __init__(self,name,roll_no,course):
        self.name    =      name
        self.roll_no =  
-       self.course  =   
+       self.course  =  course 
 
