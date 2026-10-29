@@ -10,7 +10,7 @@ class Student:
 Student1=Student("Name","01","Course")
 Student1=Student("Shekhar","02","Course")
 Student1=Student("Anubhav","03","Course")
-Student1=Student("Ravan","04",".Techj")
+Student1=Student("Ravan","04",".Tech")
 Student1=Student("Khumbkaran","05","BCA")
 Student1.details()
 
