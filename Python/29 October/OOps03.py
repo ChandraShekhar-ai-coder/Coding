@@ -1,4 +1,4 @@
-class car:
+class Rectangle:
     def __init__(self,length,breath):
        self.length   = length
        self.breath = breath
@@ -8,4 +8,4 @@ class car:
         print(f"{self.length}    {self.breath}    ")
 
 print(f"---Rectangle Details---")
-car0=car("Name","Roll NO","      Course")
+Rectangle0=Rectangle("Name","Roll NO","      Course")
