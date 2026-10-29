@@ -1,5 +1,5 @@
 class Rectangle:
-    def __init__(self,brand,color,speed):
+    def __init__(self,Length):
        self.brand   = brand
        self.color = color
        self.speed  = speed 
