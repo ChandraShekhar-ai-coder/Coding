@@ -8,4 +8,4 @@ class Student:
         print(f"{self.name}    {self.roll_no}    {self.course}")
 
 Student1=Students("Name","Roll No","Course")
-    
+
