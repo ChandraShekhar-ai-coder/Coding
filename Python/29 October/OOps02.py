@@ -1,4 +1,4 @@
-class :
+class Car:
     def __init__(self,car,color,speed):
        self.car   = car
        self.color = color
