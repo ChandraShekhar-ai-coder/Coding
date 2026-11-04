@@ -1,24 +1,25 @@
-# Problem 8: Method Overriding in Vehicles
-# Logic: Parent Vehicle has a generic start(). Car and Bike inherit and redefine start()
-# to override the default behavior with their specific starting mechanisms.
-class Vehicle:
-    def start(self):
-        print("The vehicle is starting...")
+# Problem 9: Student Marks Validation Using Encapsulation
+# Logic: Use a private variable __marks to restrict direct modification.
+# Provide a setter with boundary conditions (0-100) to validate data and a getter to retrieve it.
+class StudentMarks:
+    def __init__(self, name):
+        self.name = name
+        self.__marks = 0  # Private attribute
 
-class Car(Vehicle):
-    def start(self):
-        print("Car is starting with a key ignition.")
+    def set_marks(self, marks):
+        if 0 <= marks <= 100:
+            self.__marks = marks
+            print(f"Success: Marks set to {self.__marks} for {self.name}.")
+        else:
+            print(f"Error: Invalid marks ({marks}). Must be between 0 and 100.")
 
-class Bike(Vehicle):
-    def start(self):
-        print("Bike is starting with a kick-start.")
+    def get_marks(self):
+        return self.__marks
 
-# Creating objects and demonstrating overriding
-generic_vehicle = Vehicle()
-my_car = Car()
-my_bike = Bike()
-
-generic_vehicle.start()
-my_car.start()
-my_bike.start()
+# Creating an object and testing encapsulation
+student2 = StudentMarks("Bob")
+student2.set_marks(85)   # Valid
+student2.set_marks(105)  # Invalid
+student2.set_marks(-10)  # Invalid
+print(f"{student2.name}'s verified marks: {student2.get_marks()}")
 print("-" * 20)
