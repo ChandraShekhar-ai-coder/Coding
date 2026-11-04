@@ -1,27 +1,18 @@
-# Problem 4: Simple Calculator
-# Logic: Define a class with four methods. Each method takes two parameters 
-# and performs the respective arithmetic operation. The division method handles zero division.
-class Calculator:
-    def add(self, a, b):
-        return a + b
+# Problem 5: Employee Salary Calculator
+# Logic: Pass name and monthly_salary to __init__.
+# Multiply monthly_salary by 12 inside the method to calculate and display the annual salary.
+class Employee:
+    def __init__(self, name, monthly_salary):
+        self.name = name
+        self.monthly_salary = monthly_salary
 
-    def subtract(self, a, b):
-        return a - b
+    def display_annual_salary(self):
+        annual_salary = self.monthly_salary * 12
+        print(f"Employee Name: {self.name}")
+        print(f"Monthly Salary: ${self.monthly_salary}")
+        print(f"Annual Salary: ${annual_salary}")
+        print("-" * 20)
 
-    def multiply(self, a, b):
-        return a * b
-
-    def divide(self, a, b):
-        if b == 0:
-            return "Error: Cannot divide by zero"
-        return a / b
-
-# Creating an object and performing operations
-calc = Calculator()
-num1, num2 = 20, 5
-
-print(f"Addition ({num1} + {num2}): {calc.add(num1, num2)}")
-print(f"Subtraction ({num1} - {num2}): {calc.subtract(num1, num2)}")
-print(f"Multiplication ({num1} * {num2}): {calc.multiply(num1, num2)}")
-print(f"Division ({num1} / {num2}): {calc.divide(num1, num2)}")
-print("-" * 20)
+# Creating an object and calling the method
+emp = Employee("John Doe", 5000)
+emp.display_annual_salary()
