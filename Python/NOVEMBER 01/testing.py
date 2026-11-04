@@ -1,1 +1,1 @@
-with open("message.txt","r","encoding=utf-")
+with open("message.txt","r","encoding=utf-8")
