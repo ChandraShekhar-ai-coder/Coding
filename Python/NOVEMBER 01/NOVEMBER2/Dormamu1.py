@@ -1,5 +1,5 @@
 # Problem 1: Student Details
-""""""
+"""Create a class named `Student` with attributes for the student's name, roll number, and course. Create an object of the class and display the student's details."""
 # Logic: Define a class with an __init__ constructor to initialize attributes.
 # Create a method to print the details. Instantiate the class and call the method.
 class Student:
