@@ -1,3 +1,4 @@
 file = open("message.txt", "r", encoding="utf-8")
 
-print(file.read())file.close()
+print(file.read())
+file.close()
