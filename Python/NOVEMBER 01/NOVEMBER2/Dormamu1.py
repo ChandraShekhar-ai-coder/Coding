@@ -1,26 +1,24 @@
-# Problem 7: Animal Sounds Using Inheritance
-# Logic: Parent class Animal has eat(). Child classes Dog and Cat inherit from Animal.
-# They define their own sound() method to represent specific behaviors while retaining eat().
-class Animal:
-    def eat(self):
-        print("This animal is eating.")
+# Problem 8: Method Overriding in Vehicles
+# Logic: Parent Vehicle has a generic start(). Car and Bike inherit and redefine start()
+# to override the default behavior with their specific starting mechanisms.
+class Vehicle:
+    def start(self):
+        print("The vehicle is starting...")
 
-class Dog(Animal):
-    def sound(self):
-        print("Dog says: Woof! Woof!")
+class Car(Vehicle):
+    def start(self):
+        print("Car is starting with a key ignition.")
 
-class Cat(Animal):
-    def sound(self):
-        print("Cat says: Meow!")
+class Bike(Vehicle):
+    def start(self):
+        print("Bike is starting with a kick-start.")
 
-# Creating objects and calling methods
-dog = Dog()
-print("Dog Actions:")
-dog.eat()
-dog.sound()
+# Creating objects and demonstrating overriding
+generic_vehicle = Vehicle()
+my_car = Car()
+my_bike = Bike()
 
-print("\nCat Actions:")
-cat = Cat()
-cat.eat()
-cat.sound()
+generic_vehicle.start()
+my_car.start()
+my_bike.start()
 print("-" * 20)
