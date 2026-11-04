@@ -1,4 +1,4 @@
 with open("message.txt","r",encoding="utf-8") as file:
     print(file.read())
-with open("")
+with open("message")
     print(file.write("hii golu"))
