@@ -1,25 +1,26 @@
-# Problem 9: Student Marks Validation Using Encapsulation
-# Logic: Use a private variable __marks to restrict direct modification.
-# Provide a setter with boundary conditions (0-100) to validate data and a getter to retrieve it.
-class StudentMarks:
-    def __init__(self, name):
-        self.name = name
-        self.__marks = 0  # Private attribute
+# Problem 10: Payment System Using Polymorphism
+# Logic: Base class Payment defines a general pay() method. Child classes override it.
+# We can iterate through different payment objects and call pay() uniformly, relying on 
+# python's dynamic method resolution (polymorphism) to execute the correct class method.
+class Payment:
+    def pay(self, amount):
+        print("Processing generic payment.")
 
-    def set_marks(self, marks):
-        if 0 <= marks <= 100:
-            self.__marks = marks
-            print(f"Success: Marks set to {self.__marks} for {self.name}.")
-        else:
-            print(f"Error: Invalid marks ({marks}). Must be between 0 and 100.")
+class UPIPayment(Payment):
+    def pay(self, amount):
+        print(f"Processing UPI payment of ${amount}.")
 
-    def get_marks(self):
-        return self.__marks
+class CardPayment(Payment):
+    def pay(self, amount):
+        print(f"Processing Credit/Debit Card payment of ${amount}.")
 
-# Creating an object and testing encapsulation
-student2 = StudentMarks("Bob")
-student2.set_marks(85)   # Valid
-student2.set_marks(105)  # Invalid
-student2.set_marks(-10)  # Invalid
-print(f"{student2.name}'s verified marks: {student2.get_marks()}")
-print("-" * 20)
+class CashPayment(Payment):
+    def pay(self, amount):
+        print(f"Processing Cash payment of ${amount}.")
+
+# Demonstrating polymorphism
+payments = [UPIPayment(), CardPayment(), CashPayment()]
+amount_to_pay = 150
+
+for payment_method in payments:
+    payment_method.pay(amount_to_pay)
