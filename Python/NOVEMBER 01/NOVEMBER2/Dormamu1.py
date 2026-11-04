@@ -1,6 +1,7 @@
 # Problem 3: Create a class named `Rectangle` with attributes `length` and `breadth`. Define a method named `calculate_area()` that calculates and returns the area of the rectangle.
 # Logic: Store length and breadth as instance variables.
-# The calculate_area method multiplies them and returns the product based on Area = L * B.
+# The calculate_area method multiplies them and
+#  returns the product based on Area = L * B.
 class Rectangle:
     def __init__(self, length, breadth):
         self.length = length
