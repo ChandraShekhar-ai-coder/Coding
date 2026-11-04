@@ -1,1 +1,30 @@
-Hello, Python!Hello, Python!Hello, Python!Hello, Python!9ssbB
+UNIT 4
+FILE HANDLING AND MODULES
+Python Programming  |  Student Notes
+
+Learning approach  Concept → Purpose → Syntax → Worked example → Output → Edge cases → Practice. Examples use beginner-friendly Python and explicit UTF-8 text encoding.
+
+Course: Problem Solving & Programming with Python
+Level: B.Tech Semester I
+Coverage: File operations, text files, CSV and JSON, exceptions, modules, packages, pip and practical application.
+ 
+How to Use These Notes
+These notes are designed for students who are learning file handling and modular programming for the first time. Read the explanation before typing each program. Create a separate practice folder and run examples there so that sample files do not overwrite important personal files.
+•	Python version: Python 3.10 or later is recommended. Most examples also work on earlier Python 3 versions.
+•	Editor: VS Code, IDLE, PyCharm or any Python-compatible editor.
+•	Unless stated otherwise, code examples are complete programs.
+•	File paths are relative to the program's current working directory unless an absolute path is supplied.
+Important  The code examples in this document were syntax-checked and executable examples were run in isolated temporary folders during document preparation. Outputs shown are representative; paths and operating-system details can differ.
+
+Learning Outcomes
+•	Explain why programs need persistent storage and describe how file handling works.
+•	Open, read, write, append and safely close text files.
+•	Choose appropriate file modes and understand their effects.
+•	Use read(), readline(), readlines(), write(), writelines(), seek() and tell().
+•	Handle file-related and input-related exceptions.
+•	Read and write structured CSV and JSON data.
+•	Create and import user-defined modules and packages.
+•	Install and use third-party packages with pip.
+•	Build a small record-management application using files and modules.
+Unit Map
+Hello, Python!Hello, Python!Hello, Python!Hello, Python!Hello, Python!Hello, Python!Hello, Python!Hello, Python!Hello, Python!Hello, Python!
