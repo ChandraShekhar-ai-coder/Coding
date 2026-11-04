@@ -1,4 +1,5 @@
 # Problem 1: Student Details
+
 # Logic: Define a class with an __init__ constructor to initialize attributes.
 # Create a method to print the details. Instantiate the class and call the method.
 class Student:
