@@ -5,5 +5,5 @@ file.write("Hello, Python!")
 file.write("Hello, Python!")
 file.write("Hello, Python!")
 file.close()
-file = open("mesage.txt,"r",encoding="utf-8")
+file = open("mesage.txt,"r",encoding="utf-8") as 
 print(file.read())
