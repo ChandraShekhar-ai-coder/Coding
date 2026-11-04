@@ -1,35 +1,26 @@
-# Problem 6: Bank Account Management
-# Logic: Maintain balance as an instance variable.
-# deposit() adds to balance. withdraw() checks if amount <= balance before subtracting.
-class BankAccount:
-    def __init__(self, account_holder, balance=0.0):
-        self.account_holder = account_holder
-        self.balance = balance
+# Problem 7: Animal Sounds Using Inheritance
+# Logic: Parent class Animal has eat(). Child classes Dog and Cat inherit from Animal.
+# They define their own sound() method to represent specific behaviors while retaining eat().
+class Animal:
+    def eat(self):
+        print("This animal is eating.")
 
-    def deposit(self, amount):
-        if amount > 0:
-            self.balance += amount
-            print(f"Deposited ${amount}. New balance: ${self.balance}")
-        else:
-            print("Invalid deposit amount.")
+class Dog(Animal):
+    def sound(self):
+        print("Dog says: Woof! Woof!")
 
-    def withdraw(self, amount):
-        if amount > self.balance:
-            print(f"Failed to withdraw ${amount}. Insufficient funds!")
-        elif amount <= 0:
-            print("Invalid withdrawal amount.")
-        else:
-            self.balance -= amount
-            print(f"Withdrew ${amount}. Remaining balance: ${self.balance}")
+class Cat(Animal):
+    def sound(self):
+        print("Cat says: Meow!")
 
-    def display_balance(self):
-        print(f"Account Holder: {self.account_holder} | Current Balance: ${self.balance}")
-        print("-" * 20)
+# Creating objects and calling methods
+dog = Dog()
+print("Dog Actions:")
+dog.eat()
+dog.sound()
 
-# Creating an object and testing methods
-account = BankAccount("Jane Smith", 1000)
-account.display_balance()
-account.deposit(500)
-account.withdraw(300)
-account.withdraw(2000)  # Should trigger insufficient funds
-account.display_balance()
+print("\nCat Actions:")
+cat = Cat()
+cat.eat()
+cat.sound()
+print("-" * 20)
