@@ -1,18 +1,18 @@
-# Problem 2: Car Information
-# Logic: Initialize attributes brand, color, and speed in the constructor.
-# Use a method to neatly format and print all instance variables.
-class Car:
-    def __init__(self, brand, color, speed):
-        self.brand = brand
-        self.color = color
-        self.speed = speed
+# Problem 1: Student Details
+# Logic: Define a class with an __init__ constructor to initialize attributes.
+# Create a method to print the details. Instantiate the class and call the method.
+class Student:
+    def __init__(self, name, roll_number, course):
+        self.name = name
+        self.roll_number = roll_number
+        self.course = course
 
-    def display_info(self):
-        print(f"Car Brand: {self.brand}")
-        print(f"Color: {self.color}")
-        print(f"Top Speed: {self.speed} km/h")
+    def display_details(self):
+        print(f"Name: {self.name}")
+        print(f"Roll Number: {self.roll_number}")
+        print(f"Course: {self.course}")
         print("-" * 20)
 
 # Creating an object and displaying details
-my_car = Car("Toyota", "Red", 180)
-my_car.display_info()
+student1 = Student("Alice", 101, "Computer Science")
+student1.display_details()
