@@ -1,1 +1,1 @@
-with open("message.txt","r""")
+with open("message.txt","r","")
