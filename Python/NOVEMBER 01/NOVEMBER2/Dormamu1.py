@@ -1,4 +1,5 @@
-# Problem 3: """Create a class named `Rectangle` with attributes `length` and `breadth`. Define a method named `calculate_area()` that calculates and returns the area of the rectangle."""
+# Problem 3: """Create a class named `Rectangle` with attributes `length` 
+# and `breadth`. Define a method named `calculate_area()` that calculates and returns the area of the rectangle."""
 # The calculate_area method multiplies them and
 #  returns the product based on Area = L * B.
 class Rectangle:
