@@ -3,7 +3,7 @@ y= max(numbers)
 print(y)
 z = numbers.remove(y)
 a = max(z)
-print 
+print ()
 """
 a = set(y)
 b= set(numbers)
