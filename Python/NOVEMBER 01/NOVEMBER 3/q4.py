@@ -1,3 +1,3 @@
 numbers = [1, 15, 20, 25, 30, 35,20,35,12,12,12,12]
 for num in numbers:
-    if 
+    if max
