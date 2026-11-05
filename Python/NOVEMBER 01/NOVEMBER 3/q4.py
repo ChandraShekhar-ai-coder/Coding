@@ -6,7 +6,7 @@ print(y)
 numbers.discard(y)
 a = max(numbers)
 print(a)
-print(type(z))
+print(type())
 
 """
 a = set(y)
