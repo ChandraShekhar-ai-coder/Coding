@@ -1,7 +1,7 @@
 numbers = [1, 15, 20, 25, 30, 35,20,35,12,12,12,12]
 y= max(numbers)
 print(y)
-my
+
 """
 a = set(y)
 b= set(numbers)
