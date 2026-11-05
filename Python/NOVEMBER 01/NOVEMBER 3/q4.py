@@ -4,7 +4,7 @@ y= max(numbers)
 print(y)
 
 numbers.discard(y)
-a = max(z)
+a = max(numbers)
 print(type(z))
 
 """
