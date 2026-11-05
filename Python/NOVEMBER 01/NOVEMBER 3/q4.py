@@ -3,6 +3,7 @@ y= max(numbers)
 print(y)
 a = set(y)
 b= set(numbers)
+
 z = numbers - a
 print (z)
 
