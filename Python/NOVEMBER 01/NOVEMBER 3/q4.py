@@ -5,7 +5,7 @@ print(y)
 
 z = numbers.remove(y)
 a = max(z)
-print(a)
+print(type())
 
 """
 a = set(y)
