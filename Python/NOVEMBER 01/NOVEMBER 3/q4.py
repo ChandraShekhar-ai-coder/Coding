@@ -5,7 +5,7 @@ print(y)
 
 z = numbers.discard(y)
 print(z)
-#a = max(z)
+a = max(z)
 print(type(z))
 
 """
