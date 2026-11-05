@@ -1,5 +1,5 @@
 numbers = [1, 15, 20, 25, 30, 35,20,35,12,12,12,12]
 y= set(numbers)
 x=list(y)
-print
+print()
 
