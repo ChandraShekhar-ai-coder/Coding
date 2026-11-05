@@ -3,7 +3,7 @@ numbers = set(numbers)
 y= max(numbers)
 print(y)
 
-z = numbers.discard(y)
+numbers.discard(y)
 z = set(z).
 print(z)
 a = max(z)
