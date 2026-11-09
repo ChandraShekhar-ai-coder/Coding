@@ -1,6 +1,6 @@
-code_obj = compile('x = a+ b', '', 'exec')
+"""code_obj = compile('x = a+ b', '', 'exec')
 print(type(code_obj))
 # <class 'code'>
 
 import dis
-dis.dis(code_obj)
+dis.dis(code_obj)"""
