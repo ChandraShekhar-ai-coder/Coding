@@ -1,5 +1,5 @@
 code_obj = compile('x = a+ b', '', 'exec')
-print(type(code_obj)
+print(type(code_obj))
 # <class 'code'>
 
 import dis
