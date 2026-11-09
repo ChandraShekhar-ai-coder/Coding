@@ -3,4 +3,4 @@ price =[10,20,30]
 cost = 0 
 for i in range(len(quantity)):
     cost+=(quantity[i]*price[i])
-    print()
+    print(cost)
