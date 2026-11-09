@@ -1,6 +1,6 @@
-quantity =[3,5,2]
-price =[10,20,30]
-cost = 0 
-for i in range(len(quantity)):
-    cost+=(quantity[i]*price[i])
-print(cost)
+code_obj = compile('x = a+ b', '', 'exec')
+print(type(code_obj)2
+# <class 'code'>
+
+import dis
+dis.dis(code_obj)
