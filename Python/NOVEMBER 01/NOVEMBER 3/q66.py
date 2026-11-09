@@ -1,1 +1,1 @@
-quantity =[]
+quantity =[00000000000000]
