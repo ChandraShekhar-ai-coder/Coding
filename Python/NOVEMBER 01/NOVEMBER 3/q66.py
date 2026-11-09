@@ -3,6 +3,6 @@ print(type(code_obj))
 # <class 'code'>
 
 import dis
-dis.dis(code_obj)"""
+dis.dis(code_obj)
 
 1/0
