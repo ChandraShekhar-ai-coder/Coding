@@ -1,2 +1,2 @@
 quantity =[3,5,2]
-quantity =[]
+quantity =[10,20,30]
