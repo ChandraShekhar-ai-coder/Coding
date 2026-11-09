@@ -1,4 +1,4 @@
-"""code_obj = compile('x = a+ b', '', 'exec')
+code_obj = compile('x = a+ b', '', 'exec')
 print(type(code_obj))
 # <class 'code'>
 
